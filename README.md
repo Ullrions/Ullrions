@@ -2,27 +2,37 @@
 
 Here you'll find all the projects I'm creating for various purposes.
 
+---
 
 Since I'm just starting out, I'm not very experienced yet and I'd be happy to receive help and feedback on my work.
 
-## GitHub Projects
+## 📌 Pinned Repositories
 
-[Link to your project 1](Description of project 1)
+These are the repositories I've pinned to my profile:
 
-[Link to your project 2](Description of project 2)
+<!-- Pinned Repositories Start -->
+<a href="https://github.com/YourGitHubUsername/repo1">
+  <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=repo1&theme=dark" />
+</a>
+<a href="https://github.com/YourGitHubUsername/repo2">
+  <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=repo2&theme=dark" />
+</a>
+<a href="https://github.com/YourGitHubUsername/repo3">
+  <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=repo3&theme=dark" />
+</a>
+<br clear="left"/>
+<!-- Pinned Repositories End -->
 
-(Add more projects as you create them)
+## 💻 Languages and Technologies
 
-## GitHub Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark)](https://github.com/YourGitHubUsername)
 
-[Link to your GitHub languages stats (see below)]
+## 📊 GitHub Stats
 
-## GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)](https://github.com/YourGitHubUsername)
 
-[Link to your GitHub stats (see below)]
-
-## Tomorrow is Monday 😔
+## 😔 Tomorrow is Monday
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/4d19f13fe34a56ef772e0d4de9345331/tumblr_o1zizcTtvp1v66r4no2_540.gif"Tomorrow is Monday" GIF]" width="400" alt="Tomorrow is Monday" />
+  <img src="" width="400" alt="Tomorrow is Monday" />
 </p>
