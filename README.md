@@ -9,5 +9,5 @@
 ## Настроение кодера 👩‍💻
 
 <p align="center">
-  <img src="" width="400" alt="Аниме-девочка кодит" />
+  <img src="" width="400" alt="https://64.media.tumblr.com/4d19f13fe34a56ef772e0d4de9345331/tumblr_o1zizcTtvp1v66r4no2_540.gif" />
 </p>
