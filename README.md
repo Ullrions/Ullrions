@@ -10,16 +10,7 @@ Since I'm just starting out, I'm not very experienced yet and I'd be happy to re
 
 These are the repositories I've pinned to my profile:
 
-<a href="https://github.com/YourGitHubUsername/repo1">
-  <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=repo1&theme=dark" />
-</a>
-<a href="https://github.com/YourGitHubUsername/repo2">
-  <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=repo2&theme=dark" />
-</a>
-<a href="https://github.com/YourGitHubUsername/repo3">
-  <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=repo3&theme=dark" />
-</a>
-<br clear="left"/>
+They will definitely be available soon. 
 
 ## 💻 Technologies I'm Learning
 
