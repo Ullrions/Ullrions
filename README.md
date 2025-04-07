@@ -21,9 +21,12 @@ These are the repositories I've pinned to my profile:
 </a>
 <br clear="left"/>
 
-## 💻 Languages and Technologies
+## 💻 Technologies I'm Learning
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark)](https://github.com/YourGitHubUsername)
+*   React
+*   Java
+*   JavaScript
+*   Python
 
 ## 📊 GitHub Stats
 
