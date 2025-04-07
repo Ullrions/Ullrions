@@ -1,4 +1,4 @@
-# Hello! 👋 I'm an aspiring developer.
+# Hello! 👋 I'm an aspiring developer Ullri.
 
 Here you'll find all the projects I'm creating for various purposes.
 
