@@ -33,11 +33,10 @@ These are the repositories I've pinned to my profile:
 
 ## 😔 Tomorrow is Monday
 
+---
+
 <p align="center">
-  <img src="https://64.media.tumblr.com/4d19f13fe34a56ef772e0d4de9345331/tumblr_o1zizcTtvp1v66r4no2_540.gif" width="400" alt="Tomorrow is Monday" />
-</p>
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="7">
-    ✨ Thank you for visiting my profile! ✨  I appreciate your time and interest.  Feel free to explore my projects!  😊
+  <marquee behavior="alternate" scrollamount="7">
+    ✨ Thank you for visiting my profile! ✨ I appreciate your time and interest. Feel free to explore my projects! 😊
   </marquee>
 </p>
